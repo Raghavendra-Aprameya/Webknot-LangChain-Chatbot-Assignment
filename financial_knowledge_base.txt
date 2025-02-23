@@ -1,0 +1,25 @@
+### Price-to-Earnings (P/E) Ratio
+- The P/E ratio is a valuation metric that compares a company's stock price to its earnings per share (EPS).
+- High P/E Ratio: May indicate overvaluation.
+- Low P/E Ratio: May suggest undervaluation.
+
+### Stock Market
+- A marketplace where stocks, bonds, and other securities are bought and sold.
+- Major stock exchanges include:
+  1. New York Stock Exchange (NYSE)
+  2. NASDAQ
+  3. London Stock Exchange (LSE)
+
+### Market Trends
+- Bull Market: A period of rising stock prices, often lasting months or years.
+- Bear Market: A decline of 20% or more in stock prices, usually due to economic downturns.
+
+### Diversification
+- An investment strategy that spreads investments across different asset classes, industries, or geographies to reduce risk.
+
+### Dividends
+- Regular payments made by a corporation to its shareholders, usually from profits.
+
+### Exchange-Traded Fund (ETF)
+- An investment fund traded on stock exchanges, holding a diversified portfolio of assets.
+- ETFs provide liquidity and diversification benefits.
