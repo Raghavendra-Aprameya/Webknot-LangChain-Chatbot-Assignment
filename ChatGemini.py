@@ -12,7 +12,7 @@ from langchain_core.prompts import PromptTemplate
 import asyncio
 
 # Set up the Gemini API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBaJqhm7jaZ29tAM40YeiRj7Yka5WX6FaM"
+os.environ["GOOGLE_API_KEY"] = "gemini_key"
 
 # Initialize the embedding model with caching
 @st.cache_resource
