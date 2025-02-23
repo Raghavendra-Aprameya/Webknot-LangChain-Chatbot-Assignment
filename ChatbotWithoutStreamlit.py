@@ -10,7 +10,7 @@ from langchain.tools import Tool
 from langchain_core.prompts import PromptTemplate
 
 # Set up the Gemini API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBaJqhm7jaZ29tAM40YeiRj7Yka5WX6FaM"
+os.environ["GOOGLE_API_KEY"] = "gemini_key"
 
 # Load a sentence embedding model
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
